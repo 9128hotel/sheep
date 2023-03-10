@@ -1,0 +1,37 @@
+<annotation>
+	<folder>sheep</folder>
+	<filename>39.jpg</filename>
+	<path>/sheep/39.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>1</ymin>
+			<xmax>27</xmax>
+			<ymax>12</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>30</ymin>
+			<xmax>63</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>
