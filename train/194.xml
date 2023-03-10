@@ -1,0 +1,25 @@
+<annotation>
+	<folder>sheep</folder>
+	<filename>194.jpg</filename>
+	<path>/sheep/194.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>21</ymin>
+			<xmax>64</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>
